@@ -23,8 +23,7 @@ body{
 		}
 		div{
 			text-align: center;
-		}
-		#links{
 			border: solid;
-			border-color: rgb(80,80,80);
-				}
+			border-color: rgb(80,80,80)
+		}
+		
