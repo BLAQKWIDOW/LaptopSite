@@ -21,7 +21,7 @@ body{
 			color:rgb(80,80,80);
 			text-decoration: underline;
 		}
-		div{
+		div.links{
 			text-align: center;
 			border: solid;
 			border-color: rgb(80,80,80);
