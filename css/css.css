@@ -16,6 +16,7 @@ body{
 		}
 		a{
 			text-decoration: none;
+			margin-right: 10px;
 		}
 		a:hover{
 			color:rgb(80,80,80);
