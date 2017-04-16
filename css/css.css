@@ -23,10 +23,9 @@ body{
 			color:rgb(80,80,80);
 			text-decoration: underline;
 		}
-		div.links{
+		div.nav{
 			text-align: center;
-			border: solid;
-			border-color: rgb(80,80,80);
-			padding: 10px
+			border-bottom: 2px solid rgb(80,80,80);
+			padding: 10px;
 		}
 		
